@@ -1,0 +1,27 @@
+.features-container{
+  width: 900px;
+  margin: auto;
+}
+
+.features-container h2 {
+  text-align: center;
+  display: block;
+}
+
+.cards {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.card {
+  text-align: center;
+  border: 2px solid lightgray;
+  padding: 20px;
+  width: 200px;
+  border-radius: 3px;
+  box-shadow: 0 0 5px rgb(230 230 230);
+}
+.card img{
+  height: 100px;
+}

@@ -1,0 +1,29 @@
+.banner{
+  background-image: url('../../images/background.png');
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0;
+}
+
+.hero-container {
+  width: 900px;
+  margin: 0 auto;
+}
+
+.hero-container h1{
+  color: white;
+}
+
+.hero-container p {
+  color: white;
+  opacity: .7;
+  font-size: 20px;
+}
+
+.btn-hero {
+  display: inline-block;
+  background-color: #1EDD88;
+  padding: 16px 36px;
+  border-radius: 50px;
+  color: white;
+}

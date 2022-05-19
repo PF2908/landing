@@ -1,0 +1,21 @@
+.footer{
+  text-align: center;
+  padding: 60px;
+  background-color: #2c2b2b;
+  justify-content: space-between;
+  margin-top: 30px;
+}
+
+.logo a{
+  font-size: 30px;
+  color:  #1EDD88;
+}
+
+.logo .fas {
+  color: #BF0F12;
+}
+
+
+.logo p {
+  color: #6B6C6C;
+}
